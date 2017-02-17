@@ -1,4 +1,4 @@
-#!/home/ec2-user/terrain/venv/bin/python2.7
+#!/home/ec2-user/threejs-experimentation/terrain-server/venv/bin/python2.7
 from __future__ import print_function
 import base64
 import os
